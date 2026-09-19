@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Regularization in Physics-Informed Neural Networks</h1>
+  <h1>Regularization methods in Physics-Informed Neural Networks for Nonlinear Differential Equations</h1>
   <p><strong>Python 3.12 · PyTorch · NeuroDiffEq · scikit-fem</strong></p>
   <p>
     <a href="#results">Explore the results</a>
